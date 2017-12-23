@@ -86,5 +86,4 @@ $(document).ready(function(){
         $("#randomNumber").text(Random);
         console.log(playerTotal,Random,)
        };
-    
-});
+    });       
